@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Confiict</string>
+
+    <string name="nested_scroll">二级嵌套滑动</string>
+</resources>
